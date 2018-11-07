@@ -117,11 +117,10 @@ Values:
 Values:
 	Always 0 in IDLING
 ```
-
-## *2* Sample packets between QCA e BCM
+  
+## *2* Sample packets between QCA e BCM  
+### Packet from QCA:
 ```
-Example:
-Packet from QCA:
 0000   01 02 03 04 05 06 f1 f2 f3 f4 f5 f6 81 00 00 01
 0010   88 b5 11 02 00 00 09 6a 00 00 a0 51 00 00 00 00
 0020   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -136,8 +135,9 @@ PAYLOAD:
 
 Other:
 000000000000000000000000000000000000000000000000000000000000
-
-Packet from BCM:
+```
+### Packet from BCM:
+```
 0000   f1 f2 f3 f4 f5 f6 01 02 03 04 05 06 81 00 00 01
 0010   88 b5 10 02 00 00 09 6a 00 37 56 00 00 00 00 00
 0020   02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
