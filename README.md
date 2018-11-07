@@ -94,8 +94,12 @@ Values:
 ?
 
 Values:
-	QCA ALWAYS 00.
-	When BCM answers after IDLING:02. Otherwhise 00.
+	QCA:
+		ALWAYS 00.
+		
+	BCM:
+		After IDLING: 02. 
+		Otherwhise 00.
 
 
 
