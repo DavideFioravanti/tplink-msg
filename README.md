@@ -35,7 +35,8 @@ First part of the timer?
 
 
 0X04 (2 byte)
-Counter. Everytime QCA sends a packet, this value is increased by 1. Eg: QCA sends packet 0, BCM sends packet 0; QCA sends packet 1, BCM sends packet 1
+Counter. Everytime QCA sends a packet, this value is increased by 1. 
+Eg: QCA sends packet 0, BCM sends packet 0; QCA sends packet 1, BCM sends packet 1
 
 
 
