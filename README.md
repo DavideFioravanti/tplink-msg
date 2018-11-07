@@ -37,7 +37,7 @@ Values:
 
 
 0X02 (2 byte)
-First part of the timer?
+First part of the counter?
 
 
 
