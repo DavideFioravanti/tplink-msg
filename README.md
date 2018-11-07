@@ -4,7 +4,7 @@ Usually the QCA sends a packet and then BCM answers back
   
 Tested in TP-Link Archer D7 and TP-LINK Archer D50  
   
-TP-Link Archer VR2600v should use the same protocol (needs confirmation)  
+TP-Link Archer VR2600(v) could use the same protocol (needs confirmation)  
 TP-Link Archer D5 *v1* should be an Archer D7 rebranded (needs confirmation)  
 
 
