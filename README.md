@@ -1,5 +1,12 @@
 # tplink-msg
-Understanding the communication protocol between Qualcomm(QCA) and Broadcom(BCM) cpu in some TP-Link modems
+Understanding the communication protocol between Qualcomm (QCA) and Broadcom (BCM) cpu in some TP-Link modems.  
+Usually the QCA sends a packet and then BCM answers back  
+  
+Tested in TP-Link Archer D7 and TP-LINK Archer D50  
+  
+TP-Link Archer VR2600v should use the same protocol (needs confirmation)  
+TP-Link Archer D5 *v1* should be an Archer D7 rebranded (needs confirmation)  
+
 
 ***HEAVILY WIP***
 
@@ -65,7 +72,7 @@ Random?
 
 
 0X0a (4 byte)
-Edit configuration data
+Edit configuration xDSL data
 
 Values:
 	ALWASYS 0 in IDLING
